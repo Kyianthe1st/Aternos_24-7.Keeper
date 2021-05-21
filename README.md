@@ -22,4 +22,8 @@ READ ME!
 5. Configure it whatever you want
 6. Click on "Create App"
 7. Scroll down a bit and click on GitHub
-8. 
+8. Copy & paste the file name and click on search
+9. Then link it below if it works
+10. Scroll to the bottom and click on deploy branch
+11. Click on view app
+12. 
