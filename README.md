@@ -15,3 +15,11 @@ READ ME!
     
     
 --HOW TO USE--
+1. Configurate config.json file
+2. Goto https://signup.heroku.com/
+3. Create a account
+4. Click on create new app
+5. Configure it whatever you want
+6. Click on "Create App"
+7. Scroll down a bit and click on GitHub
+8. 
